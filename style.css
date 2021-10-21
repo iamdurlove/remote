@@ -3,6 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-color: beige;
 }
 
 .remote-border{
@@ -11,8 +12,7 @@ body{
     border: solid black;
     background-color: aliceblue;
     border-radius: 20px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.698);
-    
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.698);   
 }
 
 
@@ -212,8 +212,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
-
 }
 
 .row10-button1, .row10-button2, .row10-button3,.row11-button1, .row11-button2, .row11-button3, .row12-button1, .row12-button2, .row12-button3, .row13-button1, .row13-button2, .row13-button3{
@@ -229,7 +227,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-
 
 .kei-sabda{
     width:  100%;
